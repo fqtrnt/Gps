@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gps</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="satellites">卫星数据</string>
+    <string name="gps">座标数据</string>
+    <string name="quit">退出</string>
+    <string name="gpsActivityTitle">GPS实时信息</string>
+</resources>
